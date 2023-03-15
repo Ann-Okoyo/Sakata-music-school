@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Playfair+Display:wght@900&display=swap');
+
+/* .omar ul li{
+   list-style-type: none;
+   display: flex;
+   justify-content: space-between;
+   
+} */
+
+.li a{
+    display: block;
+    color: white;
+    font-size: 500;
+    font-family: "Monteserrat", sans-serif;
+    text-decoration: none;
+  
+}
+
+
+.bro1{
+    text-align: center;
+    font-size: 60px;
+    color:purple;
+}
+/* .bro2{
+    /* background-image: url(/Nairobi-Orchestra-KNT.jpg); */
+    /* background-repeat: no-repeat;
+    background: cover;
+    width: 1000px;
+    height: 100vh;
+/* } */ */ */
+/* .ann1{
+    display: flex;
+    gap: 20rem;
+} */
+/* .jon{
+    background-image: url(/manuel-nageli-NsgsQjHA1mM-unsplash.jpg);
+    background-repeat: no-repeat;
+    background: cover;
+    width: 100%;
+    height: 100vh;
+    
+
+} */
+
+.nav-links{
+    list-style: none;
+}
+.jon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+
+}
+.nav-links{
+    list-style: none;
+}
+.nav-links li{
+    display: inline-block;
+    padding: 0px 2px;
+    color: white;
+}
+.bro2{
+    background-image: url(/add2.jpg);
+    height: 100vh;
+}
+.shel7{
+    margin-right: 200px;
+}
+.bro1{
+    margin-top: 10rem;
+}
+.bro3{
+    text-align: center;
+}
+.bro4{
+    /* display: inline-block; */
+    text-align: center;
+}
+.bro5{
+    color: blueviolet;
+}
+.bro9{
+    margin-top: 350px;
+}
+.bro7{
+    color: blueviolet;
+}
+.bro12{
+    width: 240px;
+    height: 240px;
+    border-radius: 20%;
+}
+.bro6{
+    display: flex;
+}
+.bro14{
+    color: blueviolet;
+}
+.bro13{
+   
+    
+}
+.cat{
+    
+}
+.anni2{
+    display: flex;
+}
+.anni3{
+    width: 240px;
+    height: 240px;
+    border-radius: 20%;
+
+}
+.anni6{
+    width: 240px;
+    height: 240px;
+    border-radius: 20%;
+
+}
+.anni5{
+    display: flex;
+}
+.anni1{
+    display: flex;
+}
+.anni4{
+    color: blueviolet;
+}
+.anni8{
+    color: blueviolet;
+}
+.jon1{
+    width: 240px;
+    height: 240px;
+}
+.katey{
+    text-align: center;
+}
+.jon9{
+    display: flex;
+}
